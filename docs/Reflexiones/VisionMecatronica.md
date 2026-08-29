@@ -6,7 +6,7 @@
 - ¿Qué área te llama más la atención hoy y por qué? 
     El área de control es lo que más me llama la atención en estos momentos porque me sorprende muchísimo como una máquina puede responder de manera precisa  a las instrucciones que se le dan.
 - ¿Qué te gustaría ser capaz de construir al terminar la carrera? 
-    Al terminar la carrera me gustaría crear y diseñar algún robot o dispositivo tecnológico que ayude a los demás, y entrar un poco en el ámbito de la investigación (artículos).
+    Al terminar la carrera me gustaría crear y diseñar algún robot o dispositivo tecnológico que ayude a los demás, y entrar un poco en el ámbito de la investigación.
 
 ## *Social*
 ### Incendios Forestales
